@@ -7,6 +7,8 @@ Copy and paste the **full** contents of the file containing your variant of choi
 (See also: https://docs.microsoft.com/en-us/windows/terminal/customize-settings/color-schemes)
 
 ## Screenshots
+Featured with [gotop](https://github.com/cjbassi/gotop).
+
 <div align="center">
 	<h3>Default</h3>
 	<img src="screenshots/default.png" />
